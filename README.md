@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Mithinga (MITHI935) 👋<br>📍 Guwahati, India<br><br>I’m a passionate programmer who believes in one simple philosophy:<br>“CODE. BUILD. LEARN. REPEAT.”<br><br>I enjoy solving problems, building projects, and continuously improving my skills. My focus is on writing clean, logical, and efficient code while learning new technologies along the way.
+Hi, I’m Mithinga <br>📍 Guwahati, India<br><br>I’m a passionate programmer who believes in one simple philosophy:<br>“CODE. BUILD. LEARN. REPEAT.”<br><br>I enjoy solving problems, building projects, and continuously improving my skills. My focus is on writing clean, logical, and efficient code while learning new technologies along the way.
 
 
 ## 🌐 Socials:
