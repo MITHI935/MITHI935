@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="29px" alt="wave"> About Me:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mithinga+👨‍💻;Passionate+Programmer+from+Guwahati;CODE.+BUILD.+LEARN.+REPEAT." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mithinga+👨‍💻;Passionate+Pro[...]">
 </div>
 
 <br>
@@ -68,7 +68,7 @@ I'm a passionate programmer who believes in continuous learning and building inn
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MITHI935&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=500)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MITHI935&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=MITHI935&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MITHI935&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=500)
 
@@ -80,7 +80,7 @@ I'm a passionate programmer who believes in continuous learning and building inn
 
 <div align="center">
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MITHI935&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MITHI935&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
