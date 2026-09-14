@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="29px" alt="wave"> About Me:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mithinga+👨‍💻;Passionate+Pro[..[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mithinga+👨‍💻;Passionate+Programmer;Full+Stack+Developer;Problem+Solver" alt="Typing animation">
 </div>
 
 <br>
