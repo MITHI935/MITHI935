@@ -1,14 +1,18 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="29px" alt="wave"> About Me:
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="29px" alt="wave"> About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mithinga+👨‍💻;Passionate+Progra[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mithinga+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Passionate+Developer+%26+Problem+Solver;Building+Meaningful+Projects;Always+Learning+and+Growing!" alt="Typing SVG" />
 </div>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Guwahati%2C%20India-00D9FF?style=for-the-badge&logo=map&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Full-Stack%20Development-6A5ACD?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Mode-Always%20Learning-FF7F50?style=for-the-badge" alt="Learning" />
+</p>
 
-📍 **Guwahati, India** | 💡 Problem Solver | 🚀 Project Builder
-
-I'm a passionate programmer who believes in continuous learning and building innovative solutions. I enjoy tackling challenging problems and creating impactful projects that make a difference!
+<p align="center">
+  I’m a passionate developer from <b>Guwahati, India</b> who loves turning ideas into impactful digital experiences. I enjoy solving real-world problems, building useful projects, and continuously improving my skills through hands-on learning and experimentation.
+</p>
 
 ---
 
