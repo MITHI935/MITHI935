@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="29px" alt="wave"> About Me:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mithinga+👨‍💻;Passionate+Programmer;Full+Stack+Developer;Problem+Solver" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mithinga+👨‍💻;Passionate+Progra[...]
 </div>
 
 <br>
@@ -73,21 +73,11 @@ I'm a passionate programmer who believes in continuous learning and building inn
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MITHI935&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=500)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MITHI935&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=500)](https://github.com/MITHI935)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=MITHI935&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=MITHI935&theme=radical&hide_border=true)](https://github.com/MITHI935)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MITHI935&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=500)
-
-</div>
-
----
-
-## 🔥 Contribution Activity:
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MITHI935&theme=radical&hide_border=true&bg_color=0D1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MITHI935&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=500)](https://github.com/MITHI935)
 
 </div>
 
@@ -96,8 +86,6 @@ I'm a passionate programmer who believes in continuous learning and building inn
 <div align="center">
   
   ### ✨ Let's build something amazing together! ✨
-  
-  [![Profile Views](https://visitcount.itsvg.in/api?id=MITHI935&icon=0&color=13)](https://visitcount.itsvg.in)
   
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" alt="star">
   
